@@ -1,0 +1,25 @@
+{
+  "name": "nodemailer-express-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a template that can be used to send email notifications to users provided you have an smtp server",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesnjoro/nodemailer-express-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesnjoro/nodemailer-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/jamesnjoro/nodemailer-express-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.6"
+  }
+}
