@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jamesnjoro/nodemailer-express-boilerplate#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "nodemailer": "^6.4.6"
   }
 }
