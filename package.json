@@ -20,6 +20,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "handlebars": "^4.7.6",
-    "nodemailer": "^6.4.6"
+    "nodemailer": "^6.4.16"
   }
 }
